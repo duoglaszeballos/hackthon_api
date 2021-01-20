@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Este repositório pertence ao projeto Hackathon, onde está sendo desenvolvido uma api &#x2618;
+Este repositório pertence ao projeto Hackathon, onde está sendo desenvolvida uma api &#x2618;
 
 ## Linguagens utilizadas
 
