@@ -1,6 +1,5 @@
 import * as Knex from "knex";
 
-
 export async function up(knex: Knex): Promise<void> {
   return knex.schema.createTable('customer', table => {
     table.increments('PK_Customer').notNullable();

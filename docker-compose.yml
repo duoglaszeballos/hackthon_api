@@ -13,7 +13,7 @@ services:
       - MYSQL_DATABASE=loja
     networks:
       - my_net
-  adminer:
+  adminer:usd
     image: dockette/adminer:full
     container_name: gerencia_banco
     restart: always
